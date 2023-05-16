@@ -9726,3 +9726,13 @@ Caused by: java.net.ConnectException: Connection refused
 2023-05-16 12:49:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-05-16 12:49:43 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2023-05-16 12:49:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-16 14:54:18 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-05-16 14:54:18 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2023-05-16 14:54:18 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-16 14:54:19 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-05-16 14:54:19 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-05-16 14:54:19 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-05-16 14:54:20 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-05-16 14:54:20 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
