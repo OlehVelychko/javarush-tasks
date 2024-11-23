@@ -1,4 +1,4 @@
-Welcome to the javarush-project repository!
+Welcome to the javarush-tasks repository!
 
 This project contains solutions to over 1000 Java programming tasks that I completed as part of my learning journey on https://javarush.com. The tasks cover a wide range of Java topics and concepts, including syntax, core principles, multithreading, and collections.
 
